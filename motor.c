@@ -1,8 +1,3 @@
-/**
- * Program skeleton for the course "Programming embedded systems"
- *
- * Lab 1: the elevator control system
- */
 
 /**
  * The motor actuator module. This module uses pulse-width modulation

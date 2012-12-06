@@ -1,8 +1,3 @@
-/**
- * Program skeleton for the course "Programming embedded systems"
- *
- * Lab 1: the elevator control system
- */
 
 /**
  * Main file of the system; module setup and initialisation takes

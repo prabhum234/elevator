@@ -1,8 +1,4 @@
-/**
- * Program skeleton for the course "Programming embedded systems"
- *
- * Lab 1: the elevator control system
- */
+
 
 /**
  * The planner module, which is responsible for consuming
