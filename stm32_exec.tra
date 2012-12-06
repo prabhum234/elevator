@@ -32,7 +32,7 @@
 ### ADS-LD Output File: 'stm32_exec.axf'
 ### ADS-LD Command File: 'stm32_exec.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile 'stm32_exec.lnp', Handle=0x000008C0
+### Creating CmdFile 'stm32_exec.lnp', Handle=0x00000310
 ### Writing '.lnp' file
 ### ADS-LD Command file 'stm32_exec.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

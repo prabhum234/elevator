@@ -1,1 +1,0 @@
--c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\CORTEX_STM32F103_Keil -I.\STM32F10xFWLib\inc -I.\FreeRTOS\inc -I. -I "E:\Keil\ARM\INC" -I "E:\Keil\ARM\INC\ST\STM32F10x" -DRVDS_ARMCM3_LM3S102 -o "safety.o" --omf_browse "safety.crf" --depend "safety.d" "safety.c"
